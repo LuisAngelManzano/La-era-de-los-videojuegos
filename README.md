@@ -59,7 +59,7 @@ El objetivo es transformar datos en información útil que apoye la toma de deci
 
 ## 📸 Vista Previa
 
-![Dashboard](images/analisis_videojuegos.png)
+![Dashboard](images/analisis_videojuegos.jpg)
 
 ---
 

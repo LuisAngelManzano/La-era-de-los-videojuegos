@@ -53,13 +53,13 @@ El objetivo es transformar datos en información útil que apoye la toma de deci
 
 ## 🌐 Dashboard Interactivo
 
-👉 [Ver Dashboard en Power BI](PEGA_AQUI_TU_LINK)
+👉 [Ver Dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTA4MTU2NGUtYWU2OC00MzgyLWJiYzEtYzA1ODQwMjlmMjlkIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9)
 
 ---
 
 ## 📸 Vista Previa
 
-![Dashboard](images/dashboard-overview.png)
+![Dashboard](images/analisis_videojuegos.png)
 
 ---
 
